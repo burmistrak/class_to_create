@@ -1,0 +1,3 @@
+include ':MQTT_ii_lib'
+include ':app'
+rootProject.name = "class_to_create"
